@@ -23,9 +23,6 @@ The model is trained over 20 epochs using the Adam optimizer. Each epoch compute
 4. **Visualization:** During training, both the predicted and ground truth bounding boxes are visualized on the image, enabling real-time comparison of model accuracy.
 
 
-##  Visualization of Bounding Boxes
-A custom function is used to visualize both the predicted and actual bounding boxes on the image during training, allowing for visual comparison of model performance.
-
 ## 6. Bounding Box Visualization
 
 Below are the images showing the predicted bounding boxes (in red) and the actual bounding boxes (in green) drawn during training:
